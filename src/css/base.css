@@ -1,10 +1,11 @@
-*{
-  font-family: "Inter Tight", sans-serif;
+* {
+  font-family: 'Inter Tight', sans-serif;
   font-weight: 500;
   font-size: 14px;
   line-height: 20px;
   color: #fbfbfb;
 }
+# =====Advertisement===== #
 body{
   background-color: #7a3145;
 }
@@ -22,3 +23,8 @@ body{
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
+=======
+body {
+  background-color: #576f35;
+}
+
